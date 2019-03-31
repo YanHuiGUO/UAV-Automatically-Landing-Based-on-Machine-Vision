@@ -10,4 +10,4 @@
           * \USER - Inlcuding the codes tranform data from Inter NUC to APM 
           * Building - Open Analysis_Board.uvoptx Using Keil Uvision5
           * Codes also support MarvLink, you can receive and deal your information using ROS
-     * Middleware(PCB) - Including the Schematic and PCB file of the circuit
+     * Middleware(PCB) - Including the Schematic and PCB files of the circuit
