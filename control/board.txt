@@ -1,0 +1,2 @@
+# ArduCopter build property overrides
+#
